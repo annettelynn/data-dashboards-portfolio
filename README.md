@@ -1,8 +1,10 @@
-# BI Dashboards: Phuong Tran Thi Minh (Annette)
+# Data Dashboards: Phuong Tran Thi Minh (Annette)
 
 ## I. Introduction
 
 I am captivated by the potential of data analytics, a field that empowers me to unravel complex datasets and derive insights to shape strategic decisions. I am actively seeking collaboration opportunities with like-minded individuals to explore analytics projects. I am also enthusiastic about embracing new learning opportunities to further refine my skills and broaden my impact in this domain. 
+
+[Visit my another UI Portfolio](https://github.com/annettelynn/UI-projects-portfolio)
 
 ## II. My current projects
 
